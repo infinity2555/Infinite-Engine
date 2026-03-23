@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|c:\\users\\persi\\source\\repos\\infinite engine\\infinite engine\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|solutionrelative:infinite engine\\loop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|c:\\users\\persi\\source\\repos\\infinite engine\\infinite engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|solutionrelative:infinite engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|c:\\users\\persi\\source\\repos\\infinite engine\\infinite engine\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|solutionrelative:infinite engine\\inputhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|c:\\users\\persi\\source\\repos\\infinite engine\\infinite engine\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|solutionrelative:infinite engine\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|c:\\users\\persi\\source\\repos\\infinite engine\\infinite engine\\baseassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A799ABB-90F7-9C2F-236C-60DC197E040E}|Infinite Engine\\Infinite Engine.csproj|solutionrelative:infinite engine\\baseassets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\Main.cs",
+              "RelativeDocumentMoniker": "Infinite Engine\\Main.cs",
+              "ToolTip": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\Main.cs",
+              "RelativeToolTip": "Infinite Engine\\Main.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T20:58:52.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseAssets.cs",
+              "DocumentMoniker": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\BaseAssets.cs",
+              "RelativeDocumentMoniker": "Infinite Engine\\BaseAssets.cs",
+              "ToolTip": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\BaseAssets.cs",
+              "RelativeToolTip": "Infinite Engine\\BaseAssets.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T08:51:35.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InputHandler.cs",
+              "DocumentMoniker": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\InputHandler.cs",
+              "RelativeDocumentMoniker": "Infinite Engine\\InputHandler.cs",
+              "ToolTip": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\InputHandler.cs",
+              "RelativeToolTip": "Infinite Engine\\InputHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T10:07:38.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\World.cs",
+              "RelativeDocumentMoniker": "Infinite Engine\\World.cs",
+              "ToolTip": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\World.cs",
+              "RelativeToolTip": "Infinite Engine\\World.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAwwLIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T08:42:18.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Loop.cs",
+              "DocumentMoniker": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\Loop.cs",
+              "RelativeDocumentMoniker": "Infinite Engine\\Loop.cs",
+              "ToolTip": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\Loop.cs",
+              "RelativeToolTip": "Infinite Engine\\Loop.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-07T08:32:17.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

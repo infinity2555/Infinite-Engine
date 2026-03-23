@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RvhprZbcpRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\persi\\source\\repos\\Infinite Engine\\Infinite Engine\\Infinite Engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\persi\\.nuget\\packages\\csfml\\3.0.0\\csfml.3.0.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\sfml.audio\\3.0.0\\sfml.audio.3.0.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\sfml.graphics\\3.0.0\\sfml.graphics.3.0.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\sfml.net\\3.0.0\\sfml.net.3.0.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\sfml.system\\3.0.0\\sfml.system.3.0.0.nupkg.sha512",
+    "C:\\Users\\persi\\.nuget\\packages\\sfml.window\\3.0.0\\sfml.window.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

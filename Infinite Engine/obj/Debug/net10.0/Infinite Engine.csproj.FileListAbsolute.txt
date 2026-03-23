@@ -1,0 +1,123 @@
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\Infinite Engine.exe
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\Infinite Engine.deps.json
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\Infinite Engine.runtimeconfig.json
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\Infinite Engine.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\Infinite Engine.pdb
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\SFML.Audio.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\SFML.Graphics.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\SFML.System.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\SFML.Window.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-audio.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-graphics.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-system.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-window.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libcsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm\native\libsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-audio.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-graphics.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-system.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-window.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libcsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-arm64\native\libsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-audio.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-graphics.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-system.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-window.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libcsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-musl-x64\native\libsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-audio.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-graphics.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-system.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-window.so
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libcsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libsfml-audio.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libsfml-graphics.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libsfml-system.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\linux-x64\native\libsfml-window.so.3.0
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-audio.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-audio.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-graphics.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-graphics.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-system.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-system.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-window.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libcsfml-window.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libsfml-audio.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libsfml-graphics.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libsfml-system.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-arm64\native\libsfml-window.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-audio.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-audio.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-graphics.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-graphics.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-system.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-system.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-window.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libcsfml-window.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libsfml-audio.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libsfml-graphics.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libsfml-system.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\osx-x64\native\libsfml-window.3.0.dylib
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\csfml-audio.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\csfml-graphics.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\csfml-system.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\csfml-window.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\sfml-audio-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\sfml-graphics-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\sfml-system-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\sfml-window-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\csfml-audio.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\csfml-graphics.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\csfml-system.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\csfml-window.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\sfml-audio-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\sfml-graphics-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\sfml-system-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\sfml-window-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\csfml-audio.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\csfml-graphics.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\csfml-system.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\csfml-window.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\sfml-audio-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\sfml-graphics-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\sfml-system-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\sfml-window-3.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\bin\Debug\net10.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.csproj.AssemblyReference.cache
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.AssemblyInfoInputs.cache
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.AssemblyInfo.cs
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.csproj.CoreCompileInputs.cache
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite.E299273B.Up2Date
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\refint\Infinite Engine.dll
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.pdb
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\Infinite Engine.genruntimeconfig.cache
+C:\Users\persi\source\repos\Infinite Engine\Infinite Engine\obj\Debug\net10.0\ref\Infinite Engine.dll
